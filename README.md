@@ -131,14 +131,3 @@ This project is licensed under the MIT License. See the full text in LICENSE.
 Feel free to use, adapt, and extend the game for your own purposes.
 
 
----
-
-### 📌 Quick Tips
-
-✅ Make sure your image paths (`![Main Screen](readme-images/main.png)`) point to real files in your repo.  
-✅ If you don’t have screenshot files yet, either add them or delete those lines until you add images later. :contentReference[oaicite:2]{index=2}
-
----
-
-If you want, I can also generate a **nice badge set** or help clean up your `LICENSE` file next!
-::contentReference[oaicite:3]{index=3}
