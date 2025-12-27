@@ -58,8 +58,9 @@ To run this on your local machine:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/passportpowell/Project-3.git
-   cd Project-3
+   git clone https://github.com/passportpowell/hangman-country-guessing-game.git
+   cd hangman-country-guessing-game
+
 
 
 Create and activate a virtual environment
